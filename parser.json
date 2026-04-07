@@ -1,0 +1,8 @@
+{
+  "semver": false,
+  "url": "https://github.com/kristoff-it/superhtml",
+  "lang": "superhtml",
+  "min_version": null,
+  "max_version": null,
+  "location": "tree-sitter-superhtml"
+}
